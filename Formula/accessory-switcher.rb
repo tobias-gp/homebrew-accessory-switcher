@@ -2,9 +2,9 @@ class AccessorySwitcher < Formula
   desc "Accessory Switcher"
   homepage "https://github.com/tobias-gp/accessory-switcher"
   
-  url "https://github.com/tobias-gp/accessory-switcher/releases/download/v0.0.19/bundle.tar.gz"
-  sha256 "1e739a0b0eedf105ed72903cf9d0194a9bd16a02656fc39b7eb173f28a22bf22"
-  version "0.0.19"
+  url "https://github.com/tobias-gp/accessory-switcher/releases/download/v0.1.0/bundle.tar.gz"
+  sha256 "3f4a5e4950ae46dfb0f6f406d50662fcb6fe537a123be535fa829b94bd148aee"
+  version "0.1.0"
 
   depends_on "python@3.9"
   depends_on "blueutil"
