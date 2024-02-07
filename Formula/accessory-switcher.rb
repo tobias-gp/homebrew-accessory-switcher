@@ -1,5 +1,5 @@
-class AccessorySwitcherService < Formula
-  desc "Accessory Switcher Service"
+class AccessorySwitcher < Formula
+  desc "Accessory Switcher"
   homepage "https://github.com/tobias-gp/accessory-switcher"
   
   url "https://github.com/tobias-gp/accessory-switcher/releases/download/v0.0.19/bundle.tar.gz"
