@@ -1,4 +1,4 @@
-# Homebrew Accessory Switcher
+# Display <> Bluetooth Accessory Switcher
 
 This project caters to users with multiple Mac devices who wish to interchangeably use their Bluetooth keyboard and mouse across these devices.
 
